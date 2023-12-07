@@ -1,7 +1,7 @@
 CREATE DATABASE 2000s_music;
 USE 2000s_music;
 CREATE TABLE music (ID INT,
-					Title VARCHAR(20),
+		    Title VARCHAR(20),
                     Artist VARCHAR(20),
                     Top_Genre VARCHAR(20),
                     Year INT,
